@@ -1,5 +1,5 @@
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F78729&center=true&width=435&lines=%F0%9F%91%8B+Hi+there!;I+code+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi+there+!)](https://git.io/typing-svg)
 </div>
 
 Welcome to my digital playground! 🚀 I'm a developer who thrives on turning ideas into reality, one line of code at a time. Whether it's crafting elegant solutions or exploring the latest tech trends, I'm always up for a challenge. Let's create something extraordinary together—innovation starts here! 💡
@@ -8,9 +8,13 @@ Welcome to my digital playground! 🚀 I'm a developer who thrives on turning id
 
 ## 💻 Tech Stack:
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
