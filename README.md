@@ -1,6 +1,3 @@
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi+there+!)](https://git.io/typing-svg)
-</div>
 
 Welcome to my digital playground! 🚀 I'm a developer who thrives on turning ideas into reality, one line of code at a time. Whether it's crafting elegant solutions or exploring the latest tech trends, I'm always up for a challenge. Let's create something extraordinary together—innovation starts here! 💡
 
@@ -38,12 +35,3 @@ Welcome to my digital playground! 🚀 I'm a developer who thrives on turning id
 </div>
 
 ---
-
-## 🐍 GitHub Snake Animation:
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HITMAN949/HITMAN949/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/HITMAN949/HITMAN949/blob/output/github-snake.svg" />
-    <img alt="GitHub Snake Animation" src="https://github.com/HITMAN949/HITMAN949/blob/output/github-snake.svg" />
-  </picture>
-</div>
