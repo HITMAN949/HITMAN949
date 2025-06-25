@@ -1,5 +1,5 @@
 
-Welcome to my digital playground! 🚀 I'm a developer who thrives on turning ideas into reality, one line of code at a time. Whether it's crafting elegant solutions or exploring the latest tech trends, I'm always up for a challenge. Let's create something extraordinary together—innovation starts here! 💡
+Welcome to my digital playground! 🚀 I'm a developer interested in cybersecurity who thrives on turning ideas into reality, one line of code at a time. Whether it's crafting elegant solutions or exploring the latest tech trends, I'm always up for a challenge. Let's create something extraordinary together—innovation starts here! 💡
 
 ---
 
