@@ -1,5 +1,9 @@
 
-Welcome to my digital playground! 🚀 I'm a developer interested in cybersecurity who thrives on turning ideas into reality, one line of code at a time. Whether it's crafting elegant solutions or exploring the latest tech trends, I'm always up for a challenge. Let's create something extraordinary together—innovation starts here! 💡
+🔐 Houssam Lasfar — Cybersecurity enthusiast & full-stack developer | CS student at ESTBM
+🚀 Building Leakless - IoT/AI platform for smart water management
+🛡️ CTF competitor | Founder of C0RE X tech club
+💻 Python • FastAPI • Next.js • Linux • Cloud Infrastructure
+🌍 Morocco | Turning security research into real-world solutions
 
 ---
 
