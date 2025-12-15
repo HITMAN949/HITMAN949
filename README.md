@@ -1,11 +1,11 @@
+### Hi there, I'm Houssam Lasfar! 👋
 
-🔐 Houssam Lasfar — Cybersecurity enthusiast & full-stack developer | CS student at ESTBM
-🚀 Building Leakless - IoT/AI platform for smart water management
-🛡️ CTF competitor | Founder of C0RE X tech club
-💻 Python • FastAPI • Next.js • Linux • Cloud Infrastructure
+🔐 Cybersecurity enthusiast & full-stack developer | CS student at ESTBM <br>
+🚀 Building **Leakless** - IoT/AI platform for smart water management <br>
+🛡️ CTF competitor | Founder of **C0RE X** tech club <br>
+💻 Python • FastAPI • Next.js • Linux • Cloud Infrastructure <br>
 🌍 Morocco | Turning security research into real-world solutions
 
----
 
 ## 💻 Tech Stack:
 <div align="center">
